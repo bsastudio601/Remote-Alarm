@@ -12,8 +12,8 @@ remote alarm is an alarm clock that is also a multipurpose controller! it can be
 ![case lid](Assets/top.png)
 ![base bottom](Assets/bottom.png)
 ## Firmware
-I used the example code for the display and copied the clock code from another repo : https://github.com/word9317/hopOffBro/tree/main/Firmware 
-some gpt is used to clear the code up!
+I used the example code for the display and copied section of the clock code from another repo : https://github.com/word9317/hopOffBro/tree/main/Firmware 
+and cleaned it up to use for my clock.
 
 ## BOM
 
