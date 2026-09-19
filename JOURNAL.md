@@ -1,8 +1,8 @@
 ---
-title: "Your Project Name"
-github: "your repo"
-description: "Describe your project in a short sentence!"
-created_at: "2026-08-12"
+title: "Remote-Alarm"
+github: "https://github.com/bsastudio601/Remote-Alarm"
+description: "A alarm clock with a gameboy style controller on top!"
+created_at: "2026-09-13"
 ---
 
 # Sep 12th: Starting with the pcb
@@ -10,6 +10,9 @@ created_at: "2026-08-12"
 I started working on the pcb following the blare guide. later i played around with the layout. finally i settled with a retro console layout as i wanted to use it as a controller.
 
 making the schematic was easy it took me 15 min at highest but getting the layout and routing took me a bit longer around 45 min.
+
+I did not have any screenshot of the pcb while i was making it but here is the finished product.
+![PCB](Assets/pcb.png)
 
 
 **Total time spent: 1 hour**
@@ -22,6 +25,12 @@ the modeling took me 45 min and debugging components and exporting the files too
 
 Today i also made the github repo and made some place holder files for the final upload.
 
+![PCB](Assets/cad.png)
+
 **Total time Spent: 2 hours**
 
-# Sep 14th : 
+# Sep 14th : Preparing Repository and cleaning up for shipping
+
+Today i cleaned up my pcb and added come vector art there. Then i started to prepare github repo for shipping, uploading the required files and taking screenshot and making the readme. and submitted the project later on this day.
+
+**Total time spent: 15 min**
